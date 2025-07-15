@@ -1,1 +1,3 @@
-print("yo! whats up")
+from utils import hello
+
+hello()
